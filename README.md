@@ -7,4 +7,4 @@
 
 </p>
 
-<img align="left" src="https://github.com/VanLin444/VanLin444/blob/main/elephant.gif" width="120px" />
+<img align="left" src="https://github.com/VanLin444/VanLin444/blob/main/elephant.gif" width="160px" />
