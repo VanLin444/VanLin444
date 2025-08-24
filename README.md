@@ -3,7 +3,7 @@
 <p align="left">
 
 - I really love [PHP](https://www.php.net/)
-- I’m currently "sawing" [PHP](https://github.com/VanLin444/ChillChat)
+- I’m currently "explore" [Laravel](https://github.com/VanLin444/Laravel)
 
 </p>
 
