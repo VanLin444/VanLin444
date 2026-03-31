@@ -1,5 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=VanLin444&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanLin444)](https://github.com/VanLin444/github-readme-stats)
 <p align="left">
 
 - I really love [PHP](https://www.php.net/)
