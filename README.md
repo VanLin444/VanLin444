@@ -40,9 +40,8 @@ Currently learning:
 - Get first commercial experience
 
 ---
-
 ![](https://github-readme-stats.vercel.app/api?username=VanLin444&show_icons=true&theme=buefy)
-
+<img src="https://github.com/VanLin444/VanLin444/blob/main/elephant.gif" width="200">
 ---
 
 ## 📫 Contact
@@ -50,7 +49,3 @@ Currently learning:
 - GitHub: https://github.com/VanLin444
 - Email: onel1n.van@yandex.ru
 - Telegram: @vanlin444
-
----
-
-<img src="https://github.com/VanLin444/VanLin444/blob/main/elephant.gif" width="200">
