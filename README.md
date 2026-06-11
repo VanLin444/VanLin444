@@ -22,14 +22,12 @@ Currently learning:
 
 ---
 
-
 ## 🚀 Portfolio
 
-| Project | Description | Technologies |
-|----------|-------------|-------------|
-| Weather App | Weather service using OpenWeather API | PHP, JS, API |
-| URL Shortener | URL shortening service | PHP, MySQL |
-| REST API | CRUD API with authentication | PHP, MySQL |
+- 🌦 **Weather App** — Geolocation weather service using OpenWeather API
+- 🔗 **URL Shortener** — URL shortening with statistics
+- 🔐 **REST API** — Authentication and CRUD operations
+- 📦 **Laravel Blog** — Blog system built with Laravel
 
 ---
 
