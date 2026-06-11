@@ -1,9 +1,62 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanLin444)](https://github.com/VanLin444/github-readme-stats)
-<p align="left">
+# Hi, I'm Ivan 👋
 
-- I really love [PHP](https://www.php.net/)
-- I’m currently "explore" [Laravel](https://github.com/VanLin444/Laravel)
+### PHP Developer
 
-</p>
+I am a beginner PHP developer focused on backend development.
+Currently improving my skills in PHP, MySQL, REST API and Laravel.
 
-<img align="left" src="https://github.com/VanLin444/VanLin444/blob/main/elephant.gif" width="150px" />
+---
+
+## 🛠 Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+Currently learning:
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+---
+
+
+## 🚀 Portfolio
+
+| Project | Description | Technologies |
+|----------|-------------|-------------|
+| Weather App | Weather service using OpenWeather API | PHP, JS, API |
+| URL Shortener | URL shortening service | PHP, MySQL |
+| REST API | CRUD API with authentication | PHP, MySQL |
+
+---
+
+## 🎯 Current Goals
+
+- Build portfolio projects
+- Learn Laravel
+- Improve REST API development skills
+- Learn Docker basics
+- Get first commercial experience
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=VanLin444&show_icons=true&theme=buefy)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=VanLin444&theme=buefy)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VanLin444&layout=compact&theme=buefy)
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/VanLin444
+- Email: onel1n.van@yandex.ru
+- Telegram: @vanlin444
+
+---
+
+<img src="https://github.com/VanLin444/VanLin444/blob/main/elephant.gif" width="200">
