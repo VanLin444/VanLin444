@@ -43,10 +43,6 @@ Currently learning:
 
 ![](https://github-readme-stats.vercel.app/api?username=VanLin444&show_icons=true&theme=buefy)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VanLin444&theme=buefy)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VanLin444&layout=compact&theme=buefy)
-
 ---
 
 ## 📫 Contact
